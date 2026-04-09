@@ -2,7 +2,7 @@ Dear Customer,
 Thank you for your $489.19 purchase. Your one-year subscription to Norton 360 Life Lock  is now active. At any time, you can modify, cancel, or change your plan. Ask the customer for assistance. 
 
 Order Number: M9R4X-CDJ54-CJ
-Transaction Date: April 08, 2026
+Transaction Date: April 09, 2026
 Product :- Norton 360 Life Lock
 Transaction Status: Completed
 Total Amount: $489.19 USD
